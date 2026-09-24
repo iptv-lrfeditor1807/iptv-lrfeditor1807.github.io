@@ -1,6 +1,6 @@
     <h1>IPTV Latino &amp; English</h1>
     <div class="hello">Hello IPTV, Latino and English.</div>
-    <p class="notice">Live TV, music and radio channels from <code>iptv/index.m3u</code>. Availability, language and playback depend on each public stream provider.</p>
+    <p class="notice">Live TV, music and radio channels from <code>wp-content/uploads/2026/09/index.m3u</code>. Availability, language and playback depend on each public stream provider.</p>
   </header>
   <main>
     <section class="card" aria-labelledby="player-title">
